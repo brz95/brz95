@@ -1,7 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&duration=4500&color=89D5FF&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB++I'm+Deni+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
 <h3 align="left">Аbout me:</h3>
 <ul>
-  
+
 <img width="30%" align="right" alt="git" src="https://github.githubassets.com/images/modules/site/home/astro-mona.webp">
   <li>I'm <b><a href="https://www.google.com/search?q=react&rlz=1C5CHFA_enRU983RU983&oq=react&aqs=chrome..69i57j69i59l3j69i60l4.1853j0j7&sourceid=chrome&ie=UTF-8">React</a></b> Front-end Developer.</li>
 <li>В настоящее время работаю на <b><a href="https://www.google.com/search?q=react&rlz=1C5CHFA_enRU983RU983&oq=react&aqs=chrome..69i57j69i59l3j69i60l4.1853j0j7&sourceid=chrome&ie=UTF-8">React</a></b> и непрерывно совершенствую свои знания.</li>
@@ -19,6 +19,24 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="55" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="55" height="55"/>
 </div>
+
+## Командный проект:
+#### Название проекта "IntoBlog": 
+
+Площадка для ведения блога: где пользователи могут добавлять свои блоги/новости, возможность лайкать, оставлять комментарии, подписываться друг на друга а также вести диологи. 
+
+- [client-code](https://github.com/brz95/IntoBlog-client)
+- [backend-code](https://github.com/brz95/IntoBlog-server)
+<hr/>
+
+### Мои задачи на проекте: 
+- Авторизация пользователей с подтверждением 
+- Система подписки и отписки
+- Code Review
+- Исправление ошибок в git
+- Темная тема 
+- Верстка и функционал нескольких страниц
+
 <hr height="1px" border='none'>
 <h3>Связь со мной:</h3>
 <a href="https://t.me/chbrz" align="left">
@@ -27,3 +45,4 @@
 <a href="https://wa.me/79600048282">
     <img src="https://img.shields.io/badge/WhatsApp-0a0c10?style=for-the-badge&logo=whatsapp&logoColor=green" alt="wa">
 </a>
+
