@@ -24,6 +24,6 @@
 <a href="https://t.me/chbrz" align="left">
     <img src="https://img.shields.io/badge/Telegram-0a0c10?style=for-the-badge&logo=telegram&logoColor=white" alt="tg">
 </a>
-<a href="https://wa.me/79389977698">
+<a href="https://wa.me/79600048282">
     <img src="https://img.shields.io/badge/WhatsApp-0a0c10?style=for-the-badge&logo=whatsapp&logoColor=green" alt="wa">
 </a>
