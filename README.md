@@ -1,8 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Kanit&size=30&duration=4500&color=89D5FF&lines=Hi+there+%F0%9F%91%8B%F0%9F%8F%BB++I'm+Deni+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)
+<h1 align='center'>Hi there 👋🏻 I'm Deni 👨🏻‍💻</h1>
 <h3 align="left">Аbout me:</h3>
 <ul>
 
-<img width="30%" align="right" alt="git" src="https://github.githubassets.com/images/modules/site/home/astro-mona.webp">
   <li>I'm <b><a href="https://www.google.com/search?q=react&rlz=1C5CHFA_enRU983RU983&oq=react&aqs=chrome..69i57j69i59l3j69i60l4.1853j0j7&sourceid=chrome&ie=UTF-8">React</a></b> Front-end Developer.</li>
 <li>В настоящее время работаю на <b><a href="https://www.google.com/search?q=react&rlz=1C5CHFA_enRU983RU983&oq=react&aqs=chrome..69i57j69i59l3j69i60l4.1853j0j7&sourceid=chrome&ie=UTF-8">React</a></b> и непрерывно совершенствую свои знания.</li>
 </ul>
