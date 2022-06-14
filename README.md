@@ -38,7 +38,7 @@
 
 <hr height="1px" border='none'>
 <h3>Связь со мной:</h3>
-<a href="https://t.me/chbrz" align="left">
+<a href="https://t.me/chr04iri" align="left">
     <img src="https://img.shields.io/badge/Telegram-0a0c10?style=for-the-badge&logo=telegram&logoColor=white" alt="tg">
 </a>
 <a href="https://wa.me/79600048282">
