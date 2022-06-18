@@ -10,7 +10,7 @@
 <div align="left">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="55" height="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="javascript" alt="javascript" width="50" height="55"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="65" height="55"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="babel" alt="babel" width="65" height="55"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="typescript" alt="typescript" width="55" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="55" height="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="55" height="55"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="55" height="55"/>&nbsp;
