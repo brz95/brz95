@@ -3,7 +3,7 @@
 <ul>
 
   <li>I'm <b><a href="https://www.google.com/search?q=react&rlz=1C5CHFA_enRU983RU983&oq=react&aqs=chrome..69i57j69i59l3j69i60l4.1853j0j7&sourceid=chrome&ie=UTF-8">React</a></b> Front-end Developer.</li>
-<li>В настоящее время работаю на <b><a href="https://www.google.com/search?q=react&rlz=1C5CHFA_enRU983RU983&oq=react&aqs=chrome..69i57j69i59l3j69i60l4.1853j0j7&sourceid=chrome&ie=UTF-8">React</a></b> и непрерывно совершенствую свои знания.</li>
+<li>В настоящее время работаю на <b><a href="https://www.google.com/search?q=react&rlz=1C5CHFA_enRU983RU983&oq=react&aqs=chrome..69i57j69i59l3j69i60l4.1853j0j7&sourceid=chrome&ie=UTF-8">React</a> TypeScript</b> и непрерывно совершенствую свои знания.</li>
 </ul>
 <hr height="1px" border='none'>
 <h3>Языки и инструменты:</h3>
